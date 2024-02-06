@@ -1,0 +1,60 @@
+[{
+  "avgSoldQuantity": 5788,
+  "Quarter": 3,
+  "Color": "Silver"
+},
+{
+  "avgSoldQuantity": 4511,
+  "Quarter": 4,
+  "Color": "Silver"
+},
+{
+  "avgSoldQuantity": 3486,
+  "Quarter": 2,
+  "Color": "Red"
+},
+{
+  "avgSoldQuantity": 2453,
+  "Quarter": 1,
+  "Color": "Red"
+},
+{
+  "avgSoldQuantity": 1535,
+  "Quarter": 3,
+  "Color": "Red"
+},
+{
+  "avgSoldQuantity": 452,
+  "Quarter": 2,
+  "Color": "Blue"
+},
+{
+  "avgSoldQuantity": 1250,
+  "Quarter": 4,
+  "Color": "Red"
+},
+{
+  "avgSoldQuantity": 814,
+  "Quarter": 1,
+  "Color": "Silver"
+},
+{
+  "avgSoldQuantity": 5280,
+  "Quarter": 4,
+  "Color": "Blue"
+},
+{
+  "avgSoldQuantity": 6351,
+  "Quarter": 3,
+  "Color": "Blue"
+},
+{
+  "avgSoldQuantity": 1039,
+  "Quarter": 2,
+  "Color": "Silver"
+},
+{
+  "avgSoldQuantity": 230,
+  "Quarter": 1,
+  "Color": "Blue"
+}]
